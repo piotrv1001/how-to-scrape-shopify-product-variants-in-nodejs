@@ -2,6 +2,10 @@
 
 This example calls our [Shopify Product Scraper](https://apify.com/piotrv1001/shopify-product-scraper) on Apify. It does not implement a scraper from scratch.
 
+![Shopify storefront product dataset](./shopify_products_results.png)
+
+This is a larger catalog preview. Variant-level availability is nested inside each product row, and missing currency values need review before cross-store comparisons.
+
 ## What this example does
 
 - Requests five products from one Shopify storefront
@@ -81,6 +85,7 @@ items.forEach((item) => {
 ## Related resources
 
 - [How to audit Shopify product variants and availability](https://www.falconscrape.com/blog/how-to-audit-shopify-product-variants-and-availability)
+- [Companion post hero artwork](./shopify_products_blog.png)
 
 ## License
 
