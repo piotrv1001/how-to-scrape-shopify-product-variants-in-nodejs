@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://www.allbirds.com/products/womens-dasher-nz-blizzard-deep-navy",
+    "shopifyId": 7205198004304,
+    "title": "Women's Dasher NZ - Blizzard/Deep Navy (Blizzard Sole)",
+    "price": 140,
+    "currency": "USD",
+    "currencySource": "cart.js",
+    "availableForSale": true,
+    "variants": [
+      {
+        "id": 41271219060816,
+        "title": "7.5",
+        "sku": "A12464W075",
+        "price": 140,
+        "available": true
+      },
+      {
+        "id": 41271219093584,
+        "title": "8",
+        "sku": "A12464W080",
+        "price": 140,
+        "available": false
+      }
+    ]
+  }
+]
